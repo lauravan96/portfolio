@@ -46,8 +46,13 @@ function App() {
         <h2>Contacto</h2>
         <a href='https://www.linkedin.com/in/laura-vanegas-qa/' target='_blank' rel='noopener noreferrer'>
         <FontAwesomeIcon icon={faLinkedin} /> LinkedIn
-        </a>
+        </a>     
+        <a href='https://github.com/lauravan96' target='_blank' rel='noopener noreferrer'>
+        <FontAwesomeIcon icon={faGithub} /> GitHub
+        </a>     
+
       </section>
+
     </div>
   );
 }
